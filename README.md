@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-muaz-6aabab167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-muaz-6aabab167" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14912754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14912754" height="30" width="40" /></a>
+<a href="https://medium.com/@muaz_zulfaqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mediumprofile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
