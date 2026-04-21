@@ -3,29 +3,65 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muaz</h1>
 <h3 align="center">A freelance Android App developer from Pakistan.</h3>
 
-
-- 💬 Ask me about **kotlin, Java, Android, MVVM**
-
+- 💬 Ask me about **Kotlin, Java, Android, MVVM**
 - 📫 Reach me at **muaz8601@gmail.com**
+- ⚡ Fun fact: **I love reading books & mobile photography 📸**
 
-- ⚡ Fun fact **I love to read books ;)**
+---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-muaz-6aabab167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-muaz-6aabab167" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14912754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14912754" height="30" width="40" /></a>
-<a href="https://medium.com/@muaz_zulfaqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mediumprofile" height="30" width="40" /></a>
-
+<p style="display:flex; gap:10px; align-items:center;">
+<a href="https://linkedin.com/in/muhammad-muaz-6aabab167" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+<a href="https://stackoverflow.com/users/14912754" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
+</a>
+<a href="https://medium.com/@muaz_zulfaqar" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
+</a>
+<a href="https://instagram.com/muaz_captures" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</div>
+
+---
 
 <h3 align="left">Worked with these amazing✨ clients</h3>
-<p align="left">  <a href="https://play.google.com/store/apps/details?id=com.santer.wallpaper" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/LaIBGLJHyoXbObOUyh_W130aWJoZTz_11-Q32p_wNtWIbKRQpzOKIfjWsrQvXm-7w5Q=w480-h960" alt="Santertainment Wallpaper
-" width="40" height="40"/> </a><a href="https://play.google.com/store/apps/details?id=markhor.gps.area.measurement" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/UIXLuGCa68N-lWCiUYWOZvlCCTPH8jr2bXfVHbPeXKK2E82W3qY-ZF50QnXGhsoNM5M=w480-h960" alt="Area Calculator For Land
-" width="40" height="40"/> </a> <a href="https://www.visiontif.com/" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/ee054d_8de54eb1db0e40078dfff5678394f453~mv2.png/v1/crop/x_1260,y_0,w_3240,h_3240/fill/w_556,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png" alt="Visiontif
-" width="40" height="40"/> </a>  <a href="https://www.scoutflix.com" target="_blank" rel="noreferrer"> <img src="https://www.scoutflix.com/wp-content/uploads/2025/05/icon-02-primary.png" alt="Scoutflix
-" width="40" height="40"/> </a> <a href="https://play.google.com/store/apps/details?id=com.zibdy.core.client&hl=en" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/sJXcL0LjrBaZ6MfUVwGg1KNgQALjuxBHFxsIFiVCvp2CmpanxZw1lJJOyCZm_Z8U-w=s48-rw" alt="Zibdy Health
-" width="40" height="40"/> </a> <a href="https://toddtransit.com" target="_blank" rel="noreferrer"> <img src="https://toddtransit.com//img/tt_50th_logo.png" alt="Todd Transit
-" width="40" height="40"/> </a><a href="https://whereareyou-app.com" target="_blank" rel="noreferrer"> <img src="https://whereareyou-app.com/img/where-are-you-app-icon.png" alt="whereareyouapp" width="40" height="40"/> </a> <a href="http://surveyscriber.com" target="_blank" rel="noreferrer"> <img src="http://surveyscriber.com/assets/img/logo.png" alt="surveyscriber" width="40" height="40"/> </a> <a href="https://play.google.com/store/apps/details?id=power_track.creative.wss.planetroofing" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/RECdNLketZfR8NIudxiQXpdA3acatKgkn_hS6GZpRk4wHPUL9XSCHa7I0jsEobXSJw4u=w480-h960" alt="planetroofing" width="40" height="40"/> </a> <a href="https://artificial.lv/btwake/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?export=download&id=1OqQLwUyzZ5yqse5GmHE0dshdKD5XHCgN" alt="buletooth wake" width="40" height="40"/> </a> <a href="https://goafricaglobal.com/4482-eppraf/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/i-goafrica.com/wp-content/uploads/2024/01/indigenous-goafrica-limited-gradient.png?fit=2192%2C1494&ssl=1" alt="igo africa" width="40" height="40"/> </a> <a href="https://eternosoft.in/" target="_blank" rel="noreferrer"> <img src="https://eternosoft.in/img/logo.png" alt="car wash app for eternosoft" width="40" height="40"/> </a> <a href="https://play.google.com/store/apps/details?id=com.changesoft.android.mymasjid" target="_blank" rel="noreferrer"> <img src="https://mquba.org/wp-content/uploads/2024/04/cropped-MasjidQubaLogo-300x192.png" alt="masjid e Quba app" width="40" height="40"/> </a></p>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+<img src="https://play-lh.googleusercontent.com/LaIBGLJHyoXbObOUyh_W130aWJoZTz_11-Q32p_wNtWIbKRQpzOKIfjWsrQvXm-7w5Q=w480-h960" width="40"/>
+<img src="https://play-lh.googleusercontent.com/UIXLuGCa68N-lWCiUYWOZvlCCTPH8jr2bXfVHbPeXKK2E82W3qY-ZF50QnXGhsoNM5M=w480-h960" width="40"/>
+<img src="https://static.wixstatic.com/media/ee054d_8de54eb1db0e40078dfff5678394f453~mv2.png" width="40"/>
+<img src="https://www.scoutflix.com/wp-content/uploads/2025/05/icon-02-primary.png" width="40"/>
+<img src="https://play-lh.googleusercontent.com/sJXcL0LjrBaZ6MfUVwGg1KNgQALjuxBHFxsIFiVCvp2CmpanxZw1lJJOyCZm_Z8U-w=s48-rw" width="40"/>
+<img src="https://toddtransit.com/img/tt_50th_logo.png" width="40"/>
+<img src="https://whereareyou-app.com/img/where-are-you-app-icon.png" width="40"/>
+<img src="http://surveyscriber.com/assets/img/logo.png" width="40"/>
+<img src="https://play-lh.googleusercontent.com/RECdNLketZfR8NIudxiQXpdA3acatKgkn_hS6GZpRk4wHPUL9XSCHa7I0jsEobXSJw4u=w480-h960" width="40"/>
+<img src="https://drive.google.com/uc?export=download&id=1OqQLwUyzZ5yqse5GmHE0dshdKD5XHCgN" width="40"/>
+<img src="https://i0.wp.com/i-goafrica.com/wp-content/uploads/2024/01/indigenous-goafrica-limited-gradient.png" width="40"/>
+<img src="https://eternosoft.in/img/logo.png" width="40"/>
+<img src="https://mquba.org/wp-content/uploads/2024/04/cropped-MasjidQubaLogo-300x192.png" width="40"/>
+</div>
+
+---
+
+### 📸 Hobby
+I also do **mobile photography** →  
+👉 https://instagram.com/muaz_captures
